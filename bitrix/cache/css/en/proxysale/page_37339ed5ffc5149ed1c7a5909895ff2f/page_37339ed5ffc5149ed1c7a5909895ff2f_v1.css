@@ -1,0 +1,88 @@
+#proxy-type-info {
+    text-align: left;
+    padding: 27px 5px;
+    border-radius: 12px
+}
+
+#proxy-type-info .popup-edit-ip__inner {
+    padding: 15px
+}
+
+#proxy-type-info .proxy-info-item:not(:last-child) {
+    margin-bottom: 13px
+}
+
+.popup-automatic-payment__top-block-select.county-select {
+    width: 100% !important;
+    margin-right: 0 !important
+}
+
+.target-hint {
+    position: absolute;
+    right: 5px;
+    bottom: -5px;
+    font-size: 12px;
+    color: red
+}
+
+.target-wrap {
+    position: relative
+}
+
+@media only screen and (max-width:650px) {
+    .target-hint {
+        position: static;
+        width: 100%;
+        text-align: center
+    }
+}
+
+.popup-automatic-payment__top-block-select.county-select {
+    width: 100% !important;
+    margin-right: 0 !important
+}
+
+.target-hint {
+    position: absolute;
+    right: 5px;
+    bottom: -5px;
+    font-size: 12px;
+    color: red
+}
+
+.target-wrap {
+    position: relative
+}
+
+@media only screen and (max-width:650px) {
+    .target-hint {
+        position: static;
+        width: 100%;
+        text-align: center
+    }
+}
+
+.popup-automatic-payment__top-block-select.county-select {
+    width: 100% !important;
+    margin-right: 0 !important
+}
+
+.target-hint {
+    position: absolute;
+    right: 5px;
+    bottom: -5px;
+    font-size: 12px;
+    color: red
+}
+
+.target-wrap {
+    position: relative
+}
+
+@media only screen and (max-width:650px) {
+    .target-hint {
+        position: static;
+        width: 100%;
+        text-align: center
+    }
+}
